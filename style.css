@@ -1,0 +1,46 @@
+body{
+    font-family: Arial;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    background:#111;
+    color:white;
+    margin-top:40px;
+}
+
+/* Navbar */
+.navbar{
+    border:none;
+    background:#000;
+}
+
+.navbar-brand{
+    color:#00bfff !important;
+    font-size:28px;
+    font-weight:bold;
+}
+
+.navbar-nav li a{
+    color:white !important;
+    font-size:18px;
+}
+
+.navbar-nav li a:hover{
+    background:#00ffcc !important;
+    color:black !important;
+    border-radius:8px;
+}
+
+/* Social icons */
+.fa{
+    padding:15px;
+    width:50px;
+    height:50px;
+    border-radius:10%;
+    color:white;
+}
+
+.fa-facebook{ background:#3B5998; }
+.fa-youtube{ background:#bb0000; }
